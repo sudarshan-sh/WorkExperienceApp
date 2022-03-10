@@ -4,6 +4,8 @@
 
 Basic React app that lists the work experience of a person.
 
+![Work Experience App](https://github.com/sudarshan-sh/WorkExperienceApp/blob/main/images/my-tabs-app.png)
+
 ## Functional
 
 *   The list shows the work experience from the first job to the current job for different job profile.
@@ -12,9 +14,9 @@ Basic React app that lists the work experience of a person.
 
 ## Technical 
 
-*   The application is built on ReactJS.
+*   This application is built on ReactJS.
 
-*   The app also has an external library i.e., react-icons.
+*   It also has an external library i.e., react-icons.
 
 *   Source of data:
 
